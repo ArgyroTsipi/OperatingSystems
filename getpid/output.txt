@@ -1,2 +1,0 @@
-[CHILD] getpid()=40544, getppid()=40543
-[PARENT] getpid()=40543, getppid()=39739
